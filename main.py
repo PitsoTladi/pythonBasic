@@ -57,6 +57,7 @@ fizzBuzz(15)
 #imort module
 import random
 
+
 # 
 hand = input('pick a rock,Paper or Sciscor: ').lower()
 comp_options = ['rock','Paper','Sciscor']
